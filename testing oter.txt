@@ -1,0 +1,14 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/dyh/public_html/
+    - /bin/cp index.html $DEPLOYPATH
+    - /bin/cp style.css $DEPLOYPATH
+
+
+
+
+id_rsa 
+CBCqxcJ?kSGq
+
+Passphrase: dyh 
